@@ -9,7 +9,7 @@ Rank Crypto Banter "Banter Pro" members by **30-day churn probability**, recomme
 ```bash
 poetry install                       # installs pandas, scikit-learn, jupyterlab, etc.
 
-# Option A — interactive
+# Option A — interactive.
 poetry run jupyter lab
 #   then run, in order:
 #   1) regime_aware_churn_predictor/notebooks/feature_engineering.ipynb
