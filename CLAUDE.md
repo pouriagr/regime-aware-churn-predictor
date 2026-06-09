@@ -1,3 +1,5 @@
+IN CHATS ANSWER THE QUESTIONS SHORT, TO THE POINT AND EASY TO READ FOR A NON-NATIVE ENGLISH SPEAKER.
+
 # Regime-Aware Churn Predictor
 
 Take-home assessment (Senior AI/ML Engineer). Full brief: `regime_aware_churn_predictor/docs/Assessment_-_Senior_AI_ML_Engineer.pdf`. Data: `regime_aware_churn_predictor/data/`.
