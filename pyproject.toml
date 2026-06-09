@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "regime-aware-churn-predictor"
+version = "0.1.0"
+description = "Regime-aware customer churn predictor"
+authors = ["pouria.golshanrad <pouria@wisdomise.com>"]
+readme = "README.md"
+packages = [{ include = "regime_aware_churn_predictor" }]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^3.0.3"
+numpy = "^2.4.6"
+matplotlib = "^3.10.9"
+seaborn = "^0.13.2"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2"
+jupyterlab = "^4.5.8"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
