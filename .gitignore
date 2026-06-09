@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Challenge data — do NOT publish (raw CSVs + assessment PDF).
+# Keep generated features (data/processed/) tracked, so only the source data here is ignored.
+/regime_aware_churn_predictor/data/*.csv
+/regime_aware_churn_predictor/docs/*.pdf
